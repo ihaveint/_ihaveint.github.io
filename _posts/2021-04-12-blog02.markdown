@@ -1,0 +1,29 @@
+---
+layout: post
+title:  "blog 02"
+date:   2021-04-11 07:30:00 +0430
+categories: blog
+---
+
+Good! 
+
+yesterday was not a good day :))
+I missed a deadline, submitted another assignment with 26 minutes delay, 
+  and also missed another event :(
+
+so why did I start with "good"?
+
+I think as bad as it went, I can learn what to improve so at least I can reduce the likelihood of 
+similar situations happening again. Some of these issues are easy to fix, for example, for every 
+event I can set a reminder, instead of trusting my memory :)
+
+I also watched the [data wrangling](https://missing.csail.mit.edu/2020/data-wrangling/) lecture from the missing semester, highly recommended.
+
+just a random thing:
+
+I used to write all my assignments using tex, but I reallized that as fast as I type,
+  if I want to do assignments more efficiently, I either have to learn some advanced stuff,
+  like [this](https://castel.dev/post/lecture-notes-1/), or I have to look into other alternatives.
+  I'v tried using google doc for 2 my assignments so far, and it turned out better than I expected.
+  you can even use tex format for writing formulas, which is great!
+
