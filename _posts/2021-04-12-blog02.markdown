@@ -24,6 +24,6 @@ just a random thing:
 I used to write all my assignments using tex, but I reallized that as fast as I type,
   if I want to do assignments more efficiently, I either have to learn some advanced stuff,
   like [this](https://castel.dev/post/lecture-notes-1/), or I have to look into other alternatives.
-  I'v tried using google doc for 2 my assignments so far, and it turned out better than I expected.
+  I'v tried using google docc for 2 of my assignments so far, and it turned out better than I expected.
   you can even use tex format for writing formulas, which is great!
 
