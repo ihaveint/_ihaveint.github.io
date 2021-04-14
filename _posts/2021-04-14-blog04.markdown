@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "blog 04"
+date:   2021-04-14 08:30:00 +0430
+categories: blog
+---
+
+Some Adjustments,
+
+I'm having trouble with my current schedule,
+  so I should probably change some stuff. That's all I have for today :))
+
+"When you find yourself trapped in a swamp ...
+
+you must get out of it before you hit the bottom"
