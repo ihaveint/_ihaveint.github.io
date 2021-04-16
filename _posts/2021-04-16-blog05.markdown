@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "blog 05"
+date:   2021-04-16 19:00:00 +0430
+categories: blog
+---
+
+Well,
+
+I came across [Joe Armstrong](https://en.wikipedia.org/wiki/Joe_Armstrong_(programmer)) again. I really like that guy :))
+I don't know why but he really catch my attention everytime.
+Unfortunately I can't talk to him in person in my lifetime, but 
+I would love to do more research on him :)
+
+
