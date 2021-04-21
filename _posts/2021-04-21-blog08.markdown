@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "blog 07"
+date:   2021-04-19 11:07:00 +0430
+categories: blog
+---
+
+Aww,
+
+I didn't do any particular thing today, I talked to some people and also
+did a presentation(what is the correct word?) for on of my homeworks.
+
+I'm also thinking about doing a low level project in rust, currently 
+an implementation of tcp comes to mind, which I will follow based on
+[Jon's videos](https://www.youtube.com/watch?v=bzja9fQWzdA&t=6435s)
