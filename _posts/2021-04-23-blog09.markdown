@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "blog 09"
+date:   2021-04-23 3:40:00 +0430
+categories: blog
+---
+
+Feeling lazy,
+
+This past few weeks I've been feeling unmotivated to do things. It might have something to do with quarantine but I can't really 
+do anything about that :)
+
+The only solution that comes to mind is just start doing things, but slowly.
+So for starters, I plan on learning rust (to follow the tcp implementation on Jon's tutorials, mentionned in the last blog)
+and also start implementing the project for my distributed systems course. I plan on setting a specific time in my calender each day for thiese activities
+to make them easier to stick. I set 1 hour for each of them for now.
+
+
