@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "blog 010"
+date:   2021-04-24 2:25:00 +0430
+categories: blog
+---
+
+could do a whole lot better :)
+
+Today I had combinatorial optimization midterm, I messed up some easy problems :))
+
+I also fixed some issues with the proposal on our team project for distributed systems course, so the final draft(is that a thing?)
+  is available [here](https://github.com/ihaveint/map_reduce/blob/main/proposal.pdf)
+
+I'm also reading [Erlang in Anger](https://www.erlang-in-anger.com), more on it later :))
