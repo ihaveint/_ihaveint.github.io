@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "blog 12"
+date:   2021-04-26 11:24:00 +0430
+categories: blog
+---
+
+Yesterday I spent most of my time doing the map reduce project with elixir, so far seems good :))
+
+
+I really enjoy working with elixir, I probably have a long way to reach a idiomatic way of writing elixir,
+  but I'm looking forward to it.
+
+Apart from that, I think I lack in some really important aspects of programming, I don't know the exact problem but
+I can really feel it sometimes, So that's something I'm constantly thinking about.
