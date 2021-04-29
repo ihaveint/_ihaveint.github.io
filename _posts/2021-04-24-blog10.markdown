@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "blog 010"
+title:  "blog 10"
 date:   2021-04-24 2:25:00 +0430
 categories: blog
 ---
