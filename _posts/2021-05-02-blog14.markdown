@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "blog 14"
+date:   2021-05-07 11:30:00 +0430
+categories: blog
+---
+
+Ideas,
+
+Yesterday I bought [Concurrent Data Processing in Elixir](https://pragprog.com/titles/sgdpelixir/concurrent-data-processing-in-elixir/)
+I'm planning to learn more elixir and perhaps use some of these ideas in the [MapReduce](https://github.com/ihaveint/map_reduce) project,
+
+I'm also exploring possible new projects, so far I'm mainly considering projects that are distributed in nature or 
+have something to do with concurrency. 
+
+I could also do a simple blockchain like network, still thinking about that :)
