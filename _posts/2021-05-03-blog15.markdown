@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "blog 15"
+date:   2021-05-03 11:30:00 +0430
+categories: blog
+---
+
+Sleepy,
+
+I feel like a tired panda today :))
+
+I read some elixir code, and that's pretty much it(well, apart from doing panda stuff).
+
