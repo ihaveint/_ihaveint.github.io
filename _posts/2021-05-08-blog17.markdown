@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "blog 17"
+date:   2021-05-08 15:43:00 +0430
+categories: blog
+---
+
+On raft,
+
+I'm thinking about reading the [Raft](https://raft.github.io/raft.pdf) paper and implementing it.
+raft is an attemp to make a consensus algorithm that is actually understandable :))
+
+Also, a few days ago, I mentioned that I'm trying to implement an online judge backend. right now I'm trying to implement an infrastructure
+for interactive checkers.
