@@ -14,4 +14,4 @@ Today I worked more on the mapreduce project, and now I'm either going to work o
 
 
 Random fact:
-I saw a language called `Cleam` a few days ago, I want to check that out :))
+I saw a language called `Gleam` a few days ago, I want to check that out :))
