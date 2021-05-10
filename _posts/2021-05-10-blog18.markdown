@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "blog 18"
+date:   2021-05-10 19:34:00 +0430
+categories: blog
+---
+
+Yesterday I spent most of my time on some combinatorial optimization problems,
+we also improved some parts of the MapReduce project (to use key-value implementation instead of the more generalized implementation that we used before).
+
+I feel like I'm improving in writing elixir code, so that's good news :)) 
+
+Today I worked more on the mapreduce project, and now I'm either going to work on another project or read some books.
+
+
+Random fact:
+I saw a language called `Cleam` a few days ago, I want to check that out :))
