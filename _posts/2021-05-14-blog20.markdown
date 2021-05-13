@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "blog 20"
+date:   2021-05-14 5:00:00 +0430
+categories: blog
+---
+
+Refactoring,
+
+Today we spent some time on the MapReduce project, and I realized something (I knew it, but it was kind of like an affirmation):
+I don't care about most of the criteria on `Good` of `Bad` code. I just write code, and my ability to write unorganized code and maintain it for
+  a long time is amazing. It's not anything to brag about, but I can easily take a code that I've written ages ago and change something in it,
+  even though most of them are not good written codes.
+So I'm struggling with this idea. Because if you look that it from a team's perspective, eventually they are people who would have to
+  read my code, or even work with it, and even if I can manage my own code, I should write a code that they can use as well. 
+The problem is, that I'm absolutely fine with the way I write code, so I don't have any specific criteria on how to improve my coding.
+Maybe a good place to start is actually reading some books on clean code or refactoring and stuff like that.
+
+I also took a look at the `Gleam` programming language, it seemed ok but some parts that I'm mostly concerned about are still early in the development,
+  so I would give it some more time before going deeper.
+
