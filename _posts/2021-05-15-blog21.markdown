@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "blog 21"
+date:   2021-05-15 18:45:00 +0430
+categories: blog
+---
+
+Another panda day,
+
+Yesterday I surpassed my ability of being a panda :))
+Guess what I spent most of my time on? Yes! The MapReduce project.
+I also published the current version on [hex](https://hex.pm/packages/map_reduce).
+One interesting fact is that the number of lines in the code says nothing about the amount of things it does.
+It used to be +200 hundred lines of code, and it had a lot of problems back then.
+Now it has less then 100 hundred lines of code (well, unfortunately it still has a lot of problems).
