@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "blog 24"
+date:   2021-05-25 07:52:00 +0430
+categories: blog
+---
+
+A lot of days :))
+
+I haven't written in the past few days :))
+I tried to write something every day, but nothing came to mind,
+
+Yesterday was the first day of [International School-conference in Algorithms, Combinatorics, and Complexity](https://indico.eimi.ru/event/199/), which was really interesting. I was mostly interested in [Fedor Fomin's](https://folk.uib.no/nmiff/)lecture on Bollobás theorem.
