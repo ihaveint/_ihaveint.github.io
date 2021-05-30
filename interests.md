@@ -14,3 +14,12 @@ meaningful subjects:
 -  Programming Languages:
 	- Rust
 	- Elixir
+
+
+- Editor(s)
+	- Vim
+	- Vim :))
+
+- Books
+	- The Subtle Art of Not Giving a F\*ck
+	- TODO
