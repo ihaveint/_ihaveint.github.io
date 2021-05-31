@@ -18,8 +18,11 @@ meaningful subjects:
 
 - Editor(s)
 	- Vim
+	- I'm exploring Doom Emacs, it seems cool
 	- Vim :))
 
 - Books
 	- The Subtle Art of Not Giving a F\*ck
+	- [Designing Elixir Systems with OTP](https://pragprog.com/titles/jgotp/designing-elixir-systems-with-otp/)
+	- [Learn You Some Erlang for Great Good](https://learnyousomeerlang.com)
 	- TODO
