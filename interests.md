@@ -9,6 +9,8 @@ meaningful subjects (This page is actively updated):
 - Academia
 	- Programming Languages
 	- Distributed Systems
+	- Formal Verification
+	- Some aspects of Optimization
 	
 
 -  Programming Languages:
