@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "blog 30"
+date:   2021-06-04 19:52:00 +0430
+categories: blog
+---
+
+Today I participated in a competitive programming contest, it's been quite a while since I did that :))
+
+One thing that was really interesting to me was that even after all these years I can code quite fast because of something belived to be `muscle memory`. Another fun thing was that I solved most of the questions using recursion, which is kind of rare for me.
