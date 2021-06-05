@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "blog 31"
+date:   2021-06-05 19:52:00 +0430
+categories: blog
+---
+
+The paradox of less being actually more :)
+
+If I were to frame the 80-20 rule in a more magical way, it would be "less is more", because although 80 percent is less than 100 percent, the ratio of result to work is much higher when you just put the essential 20 percent and get 80 percent of the results, in comparition to when you put 100 percent of the work and you get 100 percent of the result. This doesn't mean we should always do less, but I think it's a good approach to do less on things that aren't top priorities, and spend to remaining time on things that actually matter.
