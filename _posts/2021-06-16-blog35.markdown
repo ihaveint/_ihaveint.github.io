@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "blog 34"
+date:   2021-06-16 19:52:00 +0430
+categories: blog
+---
+
+I think of unlearning things quite a lot these days. I think there are countless situations where we have "learned" something in the past, but we didn't learn it the way we should have! what should we do then? normally we try to correct the wrong things one by one, but can't we do better?
+
+It seems that "unlearning" things could help us in these situations.
+you know, kind of flushing out everything you've learned and starting from the scratch. I would like to do that in some areas of my life, specially programming.
