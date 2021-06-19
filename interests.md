@@ -7,8 +7,9 @@ title: Interests
 meaningful subjects (This page is actively updated):
 
 - Academia
-	- Programming Languages
 	- Distributed Systems
+	- Data Structures Focusing on Concurrency
+	- Programming Languages
 	- Formal Verification
 	- Some aspects of Optimization
 	
