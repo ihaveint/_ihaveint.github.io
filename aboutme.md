@@ -3,9 +3,17 @@ layout: page
 title: About me
 ---
 
-Welcome! I'm Soroush, and this is daily Z. if you want to know the origin of daily Z, it's just some random thing that Gary Vaynerchuk mentioned one day. That's pretty much it :))
+Hi! I'm Soroush, currently a computer science undergrad at Sharif University of Technology.
+I have yet too find a way to describe myself in a paragraph or two, like ... I'm waaaay more simple than that :))
 
-I'm a CS guy (20 years old at the time of writing this), who is also interested in art. The goal of this journey is to become an artist who is interested in CS, but we'll have to figure out what kind of art that is;)
+
+<div class="text-center">
+  <img src="{{ 'assets/img/habitat.jpg' | relative_url }}" alt="Happy me" />
+  <h1>This is me, in my natural habitat!</h1>
+</div>
+
+
+by the way, I have a [youtube channel](https://www.youtube.com/channel/UC7KYSjerybezxG1sDHZty6A) too!
 
 The most random fact about me
 - Sometimes, I remember the most random things you can imagine
