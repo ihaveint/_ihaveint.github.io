@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "blog 51"
+date:   2021-09-28 19:52:00 +0430
+categories: blog
+---
+
+Start early!
+
+Well, that's too much for me to say (crying about his reputation)!
+
+But really, I'm trying to do things earlier; I used to postpone everything to the last possible minute; I still think there are benefits to that, but when done strategically, not because of laziness!
+
+One thing that is particularly useful, is sending emails (or anything, really) early, but for a specific time in the future; This just gives me a feeling that I'm on top of things and every now and then, my mail server is sending emails to someone while I'm sleeping! Gives me a sense of productivity (and also respect to other's people timezone).
