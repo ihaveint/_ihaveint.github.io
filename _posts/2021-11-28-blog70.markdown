@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "blog 27"
+title:  "blog 70"
 date:   2021-11-28 19:52:00 +0430
 categories: blog
 ---
