@@ -8,8 +8,8 @@ categories: blog
 Trying to read,
 
 In the last couple of weeks, I've been trying to read more.
-There are actually a LOT of things that have been fun to read. I try to keep an updated list of things I'm reading on my github [README](https://github.com/ihaveint).
+There are actually a LOT of things that have been fun to read. I try to keep an updated list of things I'm reading on my GitHub [README](https://github.com/ihaveint).
 You may notice that I'm reading a lot of books about writing compilers/interpreters. I thought about "why" I do that, and here is the conclusion:
 As someone who is trying to make the lives of software developers easier in the long term, it seems that I need to make my life harder, ironically!
-By harder, I don't mean I have to suffer. But I mean that I feel the need to have a deeper understanding how some foundational things work, and potential ways that we could improve them.
-For example, during reading these books and consuming other contents, I have realized that it's really hard for me to interpreter a compiler in Python, but it's really fun to do so in say, GoLang. And I'm fascinated to think about "why" that is. What makes these languages different in a way that makes my experience so different. So these kind of experiences is what I spend the majority of my time on.
+By harder, I don't mean I have to suffer. But I mean that I feel the need to have a deeper understanding of how some foundational things work, and potential ways that we could improve them.
+For example, during reading these books and consuming other content, I have realized that it's really hard for me to interpreter a compiler in Python, but it's really fun to do so in say, GoLang. And I'm fascinated to think about "why" that is. What makes these languages different in a way that makes my experience so different. So this kind of experiences is what I spend the majority of my time on.
