@@ -27,5 +27,6 @@ meaningful subjects (This page is actively updated):
 - Books
 	- 12 Rules for Life
 	- The Subtle Art of Not Giving a F\*ck
+  - [Writing an Interpreter in Go](https://interpreterbook.com)
 	- [Designing Elixir Systems with OTP](https://pragprog.com/titles/jgotp/designing-elixir-systems-with-otp/)
 	- [Learn You Some Erlang for Great Good](https://learnyousomeerlang.com)
