@@ -17,7 +17,7 @@ meaningful subjects (This page is actively updated):
 -  Programming Languages:
 	- Rust
 	- Elixir
-  - Go
+	- Go
 
 
 - Editor(s)
