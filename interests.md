@@ -29,6 +29,7 @@ meaningful subjects (This page is actively updated):
 	- 12 Rules for Life
 	- The Subtle Art of Not Giving a F\*ck
 	- Hackers & Painters: Big Ideas from the Computer Age
+	- The Courage To Be Disliked
 	- [Writing an Interpreter in Go](https://interpreterbook.com)
 	- [Designing Elixir Systems with OTP](https://pragprog.com/titles/jgotp/designing-elixir-systems-with-otp/)
 	- [Learn You Some Erlang for Great Good](https://learnyousomeerlang.com)
