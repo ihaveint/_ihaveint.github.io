@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "blog 81"
+date:   2022-02-22 19:52:00 +0430
+categories: blog
+---
+
+Category Theory,
+
+I started reading a [book](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/) on category theory.
+I don't remember exactly what caused me to find this book, but so far I've been really enjoying it. One thing that I keep thinking about, is that whether there is correlation between how it is easy to read, and its length (about 500 pages). I keep wondering if there is a way to shorten it in a way that doesn't ruin the fun experience of it.
+
+A random thing:
+I have a friend, who I deeply respect, and we are both TAs for a course this semester. Today he held a session for the students to solve some problems, etc. I decided to join the session as well and try to enjoy it without ruining it for the students :) It was one of the best session of my life. It's weird to me how this friend of mine can explain things in such a good way; it draws my attention every time! I wish I can be more like him in the future;)
