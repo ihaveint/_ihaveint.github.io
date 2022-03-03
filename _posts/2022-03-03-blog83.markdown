@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "blog 83"
+date:   2022-03-03 00:52:00 +0430
+categories: blog
+---
+
+Design,
+
+I've been thinking about something lately: programming languages often make us think in a narrow direction, rather than seeing every possibility. But when you want to design a system, you first want to capture how it works, without having a specific programming language in mind for implementation purposes. My problem is that if you don't think about any programming language that can efficiently implement your design, how would you even know if it's a good design? And if you do have to think about a programming language, how do you avoid the narrowness of each language? I guess I'll have to think about "what is a good design in the first place", and try to reach my way there eventually :)
