@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "blog 89"
+date:   2022-03-13 00:52:00 +0430
+categories: blog
+---
+
+Back to basics,
+
+Whenever we want to achieve a goal, we start to walk on a path. As we move forward, we sometimes learn more advanced techniques to help us achieve our goals. While these techniques are sometimes necessary, something that we tend to forget is the importance of the basics! Without the basics, there's not much benefit to even the most advanced techniques, and all your hard work can be a waste. So I think it's important to remind ourselves every now and then about the basics and even put effort into becoming more effective at doing them!
