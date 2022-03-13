@@ -33,3 +33,4 @@ meaningful subjects (This page is actively updated):
 	- [Writing an Interpreter in Go](https://interpreterbook.com)
 	- [Designing Elixir Systems with OTP](https://pragprog.com/titles/jgotp/designing-elixir-systems-with-otp/)
 	- [Learn You Some Erlang for Great Good](https://learnyousomeerlang.com)
+	- [The pragmatic programmer](https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/)
