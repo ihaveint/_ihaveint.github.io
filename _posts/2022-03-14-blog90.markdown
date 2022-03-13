@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "blog 90"
+date:   2022-03-14 00:52:00 +0430
+categories: blog
+---
+
+Using heuristics,
+
+There are times when we come to crossroads, decisions to make, and we have no clue what choice is better. It is recommended to really think about your options and try to make the best move. But what if you still don't come to a conclusion at the end? Some people would say that it's better to literally flip a coin and make the damn decision instead of pondering over it for a long time. Another technique is to have some sort of heuristic (ahead of time) that you can rely on when you run out of other options. You can make the necessary adjustments to these heuristics and make them better over time, but having such an option to fall back on seems a good approach; at least it can reduce a lot of unnecessary headaches :)
