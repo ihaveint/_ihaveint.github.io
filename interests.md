@@ -6,13 +6,13 @@ title: Interests
 `Interest` is a vague word, I'm interested about a lot of things. I try to categorize them into some
 meaningful subjects (This page is actively updated):
 
-- Academia
+- Academia:
 	- Distributed Systems
 	- Data Structures Focusing on Concurrency
 	- Programming Languages
 	- Formal Verification
-	- Some aspects of Optimization
 	
+
 
 -  Programming Languages:
 	- Rust
@@ -20,12 +20,25 @@ meaningful subjects (This page is actively updated):
 	- Go
 
 
-- Editor(s)
+
+-  Courses:
+	- [The Missing Semester of Your CS Education](https://missing.csail.mit.edu)
+
+
+
+- Editor(s):
 	- Vim
 	- I'm exploring Doom Emacs, it seems cool
 	- Vim :))
 
-- Books
+
+
+- Tools I use daily:
+  - [Obsidian](https://obsidian.md)
+
+
+
+- Books:
 	- 12 Rules for Life
 	- The Subtle Art of Not Giving a F\*ck
 	- Hackers & Painters: Big Ideas from the Computer Age
