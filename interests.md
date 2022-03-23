@@ -23,6 +23,7 @@ meaningful subjects (This page is actively updated):
 
 -  Courses:
 	- [The Missing Semester of Your CS Education](https://missing.csail.mit.edu)
+	- [Elixir for Programmers](https://codestool.coding-gnome.com/courses/elixir-for-programmers), by Dave Thomas
 
 
 
