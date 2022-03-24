@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "blog 101"
+date:   2022-03-25 00:52:00 +0430
+categories: blog
+---
+
+"If you gaze long into an abyss, the abyss will gaze back into you",
+
+This quote has always fascinated me. I think it's true to some extent for other things (other than the original intent) as well. I believe you get consumed by what you fight for (and sometimes, like the original sentence, what you fight against). And to some extent, getting consumed also gives you power, but you should be careful not to get lost in the process.
