@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "blog 100.5 - The threshold"
-date:   2022-03-24 00:52:00 +0430
+date:   2022-03-24 5:52:00 +0430
 categories: blog
 ---
 
