@@ -48,3 +48,11 @@ meaningful subjects (This page is actively updated):
 	- [Designing Elixir Systems with OTP](https://pragprog.com/titles/jgotp/designing-elixir-systems-with-otp/)
 	- [Learn You Some Erlang for Great Good](https://learnyousomeerlang.com)
 	- [The pragmatic programmer](https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/)
+
+
+
+
+- Other things:
+  - I like learning (human) languages; currently I'm exploring Korean.
+  - I love K-Dramas!
+  - I like to walk and think (it would be a big plus to do this with a friend)
