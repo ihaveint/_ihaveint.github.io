@@ -56,3 +56,4 @@ meaningful subjects (This page is actively updated):
   - I like learning (human) languages; currently I'm exploring Korean.
   - I love K-Dramas!
   - I like to walk and think (it would be a big plus to do this with a friend)
+  - Solving problems on [Codeforces](https://codeforces.com).
