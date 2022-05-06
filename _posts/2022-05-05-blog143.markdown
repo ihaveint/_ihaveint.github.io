@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "blog 143"
+date:   2022-05-05 12:00:00 +0430
+categories: blog
+---
+
+Pattern matching,
+
+Having experienced a broad range of programming languages, or having written 'hello world' in a lo of them, my current favorite programming language is Elixir. And I think there are many reasons for that ... But the most obvious one is how powerful pattern matching is in Elixir. Normally programming languages either don't support pattern matching at all, or support it to some limited extent. With Elixir, however, there are so many possible things to do because of the power of pattern matching. But here is an interesting twist: I think we, humans, can also take advantage of pattern matching in our own (human) lives. You see, there are so many different things we need to do, learn, and achieve in the little time we have as humans that it seems daunting at times. But I think when someone can capture the pattern in things, capture their similarity per se, and use their experience dealing with that similar thing in the past, there is a huge factor that comes to play: they are using the experience that they already have, to achieve something new! And I think that's powerful, and we should work on our power to pattern match :)
