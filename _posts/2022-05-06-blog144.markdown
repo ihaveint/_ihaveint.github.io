@@ -7,4 +7,4 @@ categories: blog
 
 Consistency,
 
-We all know that we achieve a lot over the long term, given that we are consistent. But I don't think we realize the extend that this holds. It's kind of like starting with one cent, and double it it each day: First, you literally have nothing. After 5 days, you still don't have anything worth much. But give it a year, and you would not be able to count your money anymore!
+We all know that we achieve a lot over the long term, given that we are consistent. But I don’t think we realize the extent that this holds. It’s kind of like starting with one cent, and doubling it each day: First, you have nothing. After 5 days, you still don’t have anything worth much. But give it a year, and you would not be able to count your money anymore! It's exactly like the compound effect. And it seems we are bad at understanding how the compound effect works :)
