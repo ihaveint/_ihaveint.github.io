@@ -48,6 +48,8 @@ meaningful subjects (This page is actively updated):
 	- [Designing Elixir Systems with OTP](https://pragprog.com/titles/jgotp/designing-elixir-systems-with-otp/)
 	- [Learn You Some Erlang for Great Good](https://learnyousomeerlang.com)
 	- [The pragmatic programmer](https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/)
+	- [Concepts, Techniques, and Models of Computer Programming](https://www.amazon.com/gp/product/0262220695)
+	- I never thought there will come a day where I can't even share my favorite books online :) So much for free speech! I'll try to update this list as much as I can, but there are already tons of books that I can't share here.
 
 
 
