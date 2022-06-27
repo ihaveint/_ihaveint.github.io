@@ -1,10 +1,10 @@
 ---
 layout: post
 title:  "blog 001"
-date:   2022-06-16 12:00:00 +0430
+date:   2022-06-27 12:00:00 +0430
 categories: blog
 ---
 
-Here we go again,
+The blog is back!
 
-TODO
+I've experiences a lot of things these last couple of weeks. Some of them are bad, some of them are good! But they helped me to get the blog back anyways :)) So, starting tomorrow, we will have our usual, random (but not so much) blogs :) Hooray :D
