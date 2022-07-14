@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "blog 172"
+date:   2022-07-14 12:00:00 +0430
+categories: blog
+---
+
+How to be an artist?
+
+You might have read in my past blogs that I want to be an artist when I write code: I want my code to look like art!
+I think I'm getting closer to this goal of mine :) Although invisible to others, I can see it! And it makes me extremely excited for the future!
+
+In this blog, I want to discuss something with you all: How do you even become an artist?
+There are different ideas about who an artist even is! Some people believe that great artists steal(!), while others don't. In the realm of computer programming, stealing is somehow managed by open source projects: You already have many sources given to you, and you can probably do as much copy & pasting as you want, given that the licenses of these projects allow you to do so. So, there's not much stealing going on (Or you could say, it's civilized stealing!). But if you want to be an artist in another world where open source projects don't really exist: Yes! I think you should steal to some extent, as long as you're not in danger of going to jail some day :) And if you want to know what I mean by stealing, go find it out by yourself! I don't want to go to jail instead of you :)
+
+Now, the next step is somehow getting a product out of all the raw material you have. How do you do that? My honest answer: It doesn't matter. You can't produce great art on the first day, or even the first year! All you should do is produce as many products as you possibly can! What I can say, is that your products are a hell of better after a year, compared to when you started! After another year, you keep getting better. At some point, if you want to get better, your old colleagues might be able to help you no more! That's exactly the slim line between being an expert and being an artist! If you want to be an expert, just stay there! If you want to be an artist, let everyone go, and do things your own way! Does your colleague think that your approach is wrong? And do you still think that you are correct after hours of discussion, and do you think that your colleague is simply sticking to the old way of thinking instead of being logical? Just do it your own way! Don't apologize! If the company is not OK with you doing things your own way: Hell, find another company! There should be tons of companies happy to hire an expert who has artistic views! If there are no such companies, start your own one, and do a side job while you are building your own company.
+
+That, in my current opinion, is how I would recommend a friend of mine to become an artist. It takes several years of hard work to do so, and might not be the fastest way. But hey, I might learn another way soon :)
