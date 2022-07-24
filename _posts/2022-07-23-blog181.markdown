@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "blog 181"
+date:   2022-07-23 10:00:00 +0430
+categories: blog
+---
+
+How can you lose something like that?
+
+I remember a time that [competitive programming](https://en.wikipedia.org/wiki/Competitive_programming) was literally my life. I would spend every hour of my day thinking about problems, and solving them. I would've never thought that there comes a day when I can't be nearly as productive as I was back then. And this is ironic to some extent: Sometimes I see a problem, and I even know the algorithm that I'm supposed to use, in order to solve it, but I just can't! It's like seeing someone you used to love, but all you remember is just that: you used to love them; you don't remember anything else :)
+
+With that being said, I wonder how much of this change is simply because I don't have time for competitive programming these days. I used to believe that if you spend enough years on a topic, you will be able to catch up fast even if don't spend time on it for a few years. But now, I wonder if that's all there is to it :) I feel as if I have changed, so much that my brain thinks in another way! And if I want to pursue competitive programming again, I literally have to re-learn a lot of topics, according to my new way of thinking!
