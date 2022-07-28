@@ -7,4 +7,4 @@ categories: blog
 
 Blank,
 
-Honestly, I don't remember what happened today! All I remember is that I didn't do anything in particular, except do a bunch of tasks related to the university, and that was pretty much it. I also went through the codebase of a project that I'm starting to work on. For the rest of the day, I was pretty much relaxing :))
+Honestly, I don't remember what happened today! All I remember is that I didn't do anything in particular, except doing a bunch of tasks related to university, and that was pretty much it! I also went through the codebase of a project that I'm starting to work on. For the rest of the day, I was pretty much relaxing :))
