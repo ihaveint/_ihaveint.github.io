@@ -5,7 +5,7 @@ title: About me
 
 Hi! I'm Soroush; I am a (alumni) computer science student at Sharif university of technology.
 
-I consider myself an engineer, in the sense that I try to solve my day to day problems using engineering. I guess that can also be considered a form of art that I try to master everyday! I also work as a software engineer at DigiExpress.
+I consider myself an engineer, in the sense that I try to solve my day to day problems using engineering. I guess that can also be considered a form of art that I try to master everyday! I also work as a software engineer at [DigiExpress](https://www.digiexpress.ir).
 
 This website is sort of like my blog, where I write things that I have on my mind. 
 
