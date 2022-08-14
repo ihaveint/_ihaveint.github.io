@@ -14,4 +14,4 @@ I'm also active on some other platforms:
 * Telegram: [ihaveint](https://t.me/ihaveint)
 * Linkedin: [Soroush Zare](https://www.linkedin.com/in/soroush-z-a1180611b/)
 * Twitter: @ihaveint; note that I'm not active in the sense of twitting, but I will be glad to follow a friend or two! So, if you are on twitter, feel tree to send me a message there :)
-* Youtube: I have an [English channel](https://youtube.com/channel/UC7KYSjerybezxG1sDHZty6A), and a [Persian One](https://www.youtube.com/channel/UCwU7CpdMntr-X7Fsc4MpPMQ). I'm not super active on Youtube since I need to take some time to learn editing, and also get a better camera :)) But it's on my todo list to get back on Youtube soon!
+* Youtube: I have an [English channel](https://youtube.com/channel/UC7KYSjerybezxG1sDHZty6A), and a [Persian One](https://www.youtube.com/channel/UCwU7CpdMntr-X7Fsc4MpPMQ). I'm not super active on Youtube since I need to take some time to learn editing, and also get a better camera :)) But it's on my to-do list to get back on Youtube soon!
