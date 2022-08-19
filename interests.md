@@ -49,6 +49,8 @@ meaningful subjects (This page is actively updated):
 	- [Learn You Some Erlang for Great Good](https://learnyousomeerlang.com)
 	- [The pragmatic programmer](https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/)
 	- [Concepts, Techniques, and Models of Computer Programming](https://www.amazon.com/gp/product/0262220695)
+	- [The Dip: A Little Book That Teaches You When to Quit (and When to Stick)](https://www.amazon.com/Dip-Little-Book-Teaches-Stick/dp/1591841666)
+	- [Make Your Bed: Little Things That Can Change Your Life...And Maybe the World](https://www.amazon.com/Make-Your-Bed-Little-Things/dp/1455570249)
 	- I never thought there will come a day where I can't even share my favorite books online :) So much for free speech! I'll try to update this list as much as I can, but there are already tons of books that I can't share here.
 
 
@@ -58,4 +60,4 @@ meaningful subjects (This page is actively updated):
   - I like learning (human) languages; currently I'm exploring Korean.
   - I love K-Dramas!
   - I like to walk and think (it would be a big plus to do this with a friend).
-  - Solving problems on [Codeforces](https://codeforces.com).
+  - Might sound weird, but here we go: negotiation!
