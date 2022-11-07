@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Been a little busy (blog 195)"
-date:   2022-10-22 10:00:00 +0430
+date:   2022-10-27 10:00:00 +0430
 categories: blog
 ---
 
