@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "The two different kinds of vulnerability"
+date:   2023-12-02 00:00:00 -0800
+categories: blog
+---
+
+I have heard many different viewpoints on whether someone should show their vulnerabilities or not. And I have a hypothesis:
+
+Well, the two viewpoints are easy to guess :) Some people think you shouldn't show any vulnerability; it's simply an act of weakness! Others believe that it's a sign of strength. There's a bit more to it than that. It's essential to know 'why' someone is showing a vulnerability! If the reason is to ask for sympathy or for people to go easy on them, it is a weakness, no matter how valid the vulnerability is!
+On the other hand, if you show a vulnerability, not because you want something in return, but as a sign that you have accepted this so-called `weakness` of yours, it becomes a strength somehow! It's like, 'I don't really care what you think about this. This is who I am; deal with it!`. It's kind of what Eminem did in that scene on the 8 Mile movie, where he kind of dissed himself, preventing the enemy from having anything extra to rap about :))
+
+So, it's simple! When you get to the point where you are confident in yourself overall, no matter how fu*ked you really are, you simply don't give a shit if people try to take advantage of your weaknesses. It's even a threat sometimes: 'I dare you to try and take advantage of this! If you do, I'll have enough strengths in other areas to mess you up. Of course, when we're talking about normal friendships or relationships, you're not trying to show a threatening version of yourself to the other person. Still, there are some competitive scenarios where you might want to come across 'as scary' as possible! And being so casual about the fact that you have some vulnerabilities can be a sign that you have other strengths that far outweigh them! And people will notice that :)
+
