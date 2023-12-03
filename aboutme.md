@@ -3,15 +3,16 @@ layout: page
 title: About me
 ---
 
-Hi! I'm Soroush; I am a (alumni) computer science student at Sharif university of technology.
+Nice seeing you here :)
 
-I consider myself an engineer, in the sense that I try to solve my day to day problems using engineering. I guess that can also be considered a form of art that I try to master everyday! I also work as a software engineer at [DigiExpress](https://www.digiexpress.ir).
+I'm Soroush. You can call me J these days.
+This page has seen a bunch of revisions in the past and might still do, but I've concluded that I can't write a good 'about me' page! I don't want it to be about the things I do. I want it to be about who I am. And that's hard to talk about! But the essence of who I am is someone who believes in mental and physical toughness in any possible pursuit. I don't hold others to my own standards, but I do judge them in the sense of whether I should be friends with them or not since any kind of friendship will also affect me and whatever I'm trying to do :)) So yeah, I do judge, but for my own sake. I don't care what you do with your own life!
 
-This website is sort of like my blog, where I write things that I have on my mind. 
+Other than the philosophical aspect, I'm an overall funny guy (I've been told). I sometimes code, draw if I really need some wholly peace, gym frequently, and learn random things. As of now, it's the Korean language. I listen to an ungodly amount of music (not really the mainstream ones, though), and I am that guy who does what he thinks he should do, regardless of the consequences.
+
+
+This website is like my blog, where I write things I have on my mind.
 
 I'm also active on some other platforms:
-* Recently I started a personal podcast, where I share pieces of my day that I think might be valuable to others. It's called 'Just a normal Day' and you can find it on places like [Spotify](https://open.spotify.com/show/1Mp8lyk7bc9GXEpWxhQ6xE) and [Castbox](https://castbox.fm/vc/5036294). It's in Persian, so don't worry if you're not comfortable listening to an English podcast! :)
 * Telegram: [ihaveint](https://t.me/ihaveint)
-* Linkedin: [Soroush Zare](https://www.linkedin.com/in/soroush-z-a1180611b/)
-* Twitter: @ihaveint; note that I'm not active in the sense of twitting, but I will be glad to follow a friend or two! So, if you are on twitter, feel tree to send me a message there :)
-* Youtube: I have an [English channel](https://youtube.com/channel/UC7KYSjerybezxG1sDHZty6A), and a [Persian One](https://www.youtube.com/channel/UCwU7CpdMntr-X7Fsc4MpPMQ). I'm not super active on Youtube since I need to take some time to learn editing, and also get a better camera :)) But it's on my to-do list to get back on Youtube soon!
+* Linkedin: [Soroush Zare](https://www.linkedin.com/in/ihaveint/)
